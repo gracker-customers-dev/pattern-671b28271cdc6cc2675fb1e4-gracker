@@ -3,22 +3,21 @@ projectName: >-
   <target_audience>
 jsonFilePath: ./input.json
 baseUrl: https://gracker.ai
-portalHeading: 'GrackerAI: Your AI-driven Growth Engine'
+portalHeading: Transform Your Cybersecurity Content Strategy
 portalDescription: >-
-  World's first AI-driven growth engine for cybersecurity B2B SaaS. Engage
-  prospects, demonstrate expertise, and fuel expansion through customized,
-  data-backed content strategies.
-portalTitle: GrackerAI - Elevate Your Cybersecurity Content Strategy
-searchPlaceholder: Search for cybersecurity solutions...
+  Leverage GrackerAI to enhance your SEO efforts and connect with your ideal
+  clients in the cybersecurity sector.
+portalTitle: GrackerAI - Your AI-driven Growth Engine for Cybersecurity
+searchPlaceholder: Search for content strategies...
 useAlphabetsCategory: true
 homeLink: https://gracker.ai
 logoLink: /
-ctaText: Get Started
+ctaText: Get started — it's free
 aboutLink: https://gracker.ai/about/
-productsLink: https://gracker.ai/products/
+productsLink: https://gracker.ai/features/
 logoImgUrl: https://gracker.ai/_astro/logo-white.DuNP12gY_Z22gpAz.svg
 ctaLink: https://portal.gracker.ai/
-copyrightText: © Copyright 2024, Gracker. Made with ❤️ in San Francisco
+copyrightText: © Copyright 2024, Gracker.
 faviconUrl: https://gracker.ai/favicon.ico
 googleTagManagerId: GTM-MB8NQN6
 pagesTitle:
@@ -43,10 +42,10 @@ socialLinks:
     url: https://www.instagram.com/grackerai/
 theme:
   primaryColor: '#000000'
-  secondaryColor: '#ffffff'
-  backgroundColor: '#f0f0f0'
+  secondaryColor: '#FFFFFF'
+  backgroundColor: '#F7F7F7'
   textColor: '#333333'
-  accentColor: '#ff4081'
+  accentColor: '#FF4C00'
 fonts:
   - family: Poppins
     weights:
