@@ -3,21 +3,22 @@ projectName: >-
   <target_audience>
 jsonFilePath: ./input.json
 baseUrl: https://gracker.ai
-portalHeading: Transform Your Cybersecurity Content Strategy
+portalHeading: GrackerAI Portal
 portalDescription: >-
-  Leverage GrackerAI to enhance your SEO efforts and connect with your ideal
-  clients in the cybersecurity sector.
-portalTitle: GrackerAI - Your AI-driven Growth Engine for Cybersecurity
-searchPlaceholder: Search for content strategies...
+  World's first AI-driven growth engine for cybersecurity B2B SaaS. Engage
+  prospects, demonstrate expertise, and fuel expansion through customized,
+  data-backed content strategies.
+portalTitle: 'Boost Brand Authority & Leads: GrackerAI for Cybersecurity SaaS'
+searchPlaceholder: Search for articles, features, and solutions...
 useAlphabetsCategory: true
 homeLink: https://gracker.ai
 logoLink: /
-ctaText: Get started — it's free
+ctaText: Get Started
 aboutLink: https://gracker.ai/about/
-productsLink: https://gracker.ai/features/
+productsLink: https://gracker.ai/tools/
 logoImgUrl: https://gracker.ai/_astro/logo-white.DuNP12gY_Z22gpAz.svg
 ctaLink: https://portal.gracker.ai/
-copyrightText: © Copyright 2024, Gracker.
+copyrightText: '&copy; Copyright 2024, Gracker.'
 faviconUrl: https://gracker.ai/favicon.ico
 googleTagManagerId: GTM-MB8NQN6
 pagesTitle:
@@ -45,14 +46,14 @@ theme:
   secondaryColor: '#FFFFFF'
   backgroundColor: '#F7F7F7'
   textColor: '#333333'
-  accentColor: '#FF4C00'
+  accentColor: '#FF5733'
 fonts:
-  - family: Poppins
+  - family: Bricolage Grotesque
     weights:
       - 400
       - 500
       - 600
-  - family: Inter
+  - family: Poppins
     weights:
       - 400
       - 500
