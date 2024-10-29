@@ -3,22 +3,22 @@ projectName: >-
   <target_audience>
 jsonFilePath: ./input.json
 baseUrl: https://gracker.ai
-portalHeading: Transform Your Cybersecurity Marketing
+portalHeading: Unlock Your Cybersecurity Potential
 portalDescription: >-
   World's first AI-driven growth engine for cybersecurity B2B SaaS. Engage
   prospects, demonstrate expertise, and fuel expansion through customized,
   data-backed content strategies.
-portalTitle: 'Boost Brand Authority & Leads: GrackerAI for Cybersecurity SaaS'
-searchPlaceholder: Search for solutions and insights...
+portalTitle: 'GrackerAI: AI-Powered SEO Solutions for Cybersecurity'
+searchPlaceholder: Search for cybersecurity solutions...
 useAlphabetsCategory: true
 homeLink: https://gracker.ai
 logoLink: /
-ctaText: Get Started
+ctaText: Get started — it's free
 aboutLink: https://gracker.ai/about/
-productsLink: https://gracker.ai/features/
+productsLink: https://gracker.ai/tools/
 logoImgUrl: https://gracker.ai/_astro/logo-white.DuNP12gY_Z22gpAz.svg
 ctaLink: https://portal.gracker.ai/
-copyrightText: © Copyright 2024, Gracker.
+copyrightText: '&copy; Copyright 2024, Gracker.'
 faviconUrl: https://gracker.ai/favicon.ico
 googleTagManagerId: GTM-MB8NQN6
 pagesTitle:
@@ -43,10 +43,10 @@ socialLinks:
     url: https://www.instagram.com/grackerai/
 theme:
   primaryColor: '#000000'
-  secondaryColor: '#FFFFFF'
-  backgroundColor: '#F7F7F7'
-  textColor: '#333333'
-  accentColor: '#FF6347'
+  secondaryColor: '#ffffff'
+  backgroundColor: '#f8f9fa'
+  textColor: '#212529'
+  accentColor: '#007bff'
 fonts:
   - family: Bricolage Grotesque
     weights:
